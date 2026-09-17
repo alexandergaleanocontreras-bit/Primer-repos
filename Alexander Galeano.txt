@@ -1,3 +1,7 @@
 Alexander Galeano
 clase de fpoe
+<<<<<<< HEAD
 conflicto diferente
+=======
+conflicto
+>>>>>>> a41d306e53bd9c1075a48d167269ab3b49403680
